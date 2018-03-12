@@ -1,9 +1,9 @@
 ### Obsah
 
 1. [1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018](#1.-souhrn-úspěchů-piratů-v-praze-za-volební-období-2014–2018)
-2. [
-3. [
-4. [
+2. [2. Souhrn povedených věcí současné koalice](#2.-souhrn-povedených-věcí-současné-koalice)
+3. [3. Souhrn nepovedených věcí současné koalice](#3.-souhrn-nepovedených-věcí-současné-koalice)
+4. [4. Programové prohlášení Rady hlavního města Prahy](#4.-programové-prohlášení-rady-hlavního-města-prahy)
 
 
 ### 1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018
@@ -32,7 +32,7 @@
 
 **Prosadili jsme do protikorupční strategie Prahy důležitá opatření.** Zveřejňování informací o zakázkách, zveřejňování faktur a nájemních smluv – a to všechno jako otevřená data. To jsou body, které Piráti navrhli a prosadli do protikorupční strategie města na rok 2017–2019. Bohužel tato opatření zůstala jen na papíře, mezi priority primátorky Krnáčové zřejmě naplňování protikorupční strategie nepatří.
  
-### 2. Sourn povedených věcí současné koalice
+### 2. Souhrn povedených věcí současné koalice
 
 **Zlevnění ročního kuponu na MHD zvýšilo atraktivitu veřejné dopravy.**
 
