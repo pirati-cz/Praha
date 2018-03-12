@@ -1,6 +1,6 @@
 ### Obsah
 
-1. [Souhrn úspěchů Pirátů v Praze za volební období 2014–2018](#souhrn-úspěchů-piratů-v-praze-za-volební-období-2014–2018)
+1. [1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018](#1.-souhrn-úspěchů-piratů-v-praze-za-volební-období-2014–2018)
 2. [
 3. [
 4. [
