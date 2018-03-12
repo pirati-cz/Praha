@@ -1,3 +1,11 @@
+### Obsah
+
+1. [Souhrn úspěchů Pirátů v Praze za volební období 2014–2018](#souhrn-úspěchů-piratů-v-praze-za-volební-období-2014–2018)
+2. [
+3. [
+4. [
+
+
 ### 1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018
 
 **Pomohli jsme vyřešit problém s Opencard, když jsme přesvědčili město, aby zavedlo jako alternativu papírové kupony.** I když jsou samy o sobě primitivní, Pražané získali možnost volby a Praha přestala být rukojmím poskytovatele služeb pro Opencard.
