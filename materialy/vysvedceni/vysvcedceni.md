@@ -6,7 +6,7 @@
 4. [4. Programové prohlášení Rady hlavního města Prahy](#4.-programové-prohlášení-rady-hlavního-města-prahy)
 
 
-### 1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018
+### 1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018 <a id="1.-souhrn-úspěchů-piratů-v-praze-za-volební-období-2014–2018"></a>
 
 **Pomohli jsme vyřešit problém s Opencard, když jsme přesvědčili město, aby zavedlo jako alternativu papírové kupony.** I když jsou samy o sobě primitivní, Pražané získali možnost volby a Praha přestala být rukojmím poskytovatele služeb pro Opencard.
 
@@ -32,7 +32,7 @@
 
 **Prosadili jsme do protikorupční strategie Prahy důležitá opatření.** Zveřejňování informací o zakázkách, zveřejňování faktur a nájemních smluv – a to všechno jako otevřená data. To jsou body, které Piráti navrhli a prosadli do protikorupční strategie města na rok 2017–2019. Bohužel tato opatření zůstala jen na papíře, mezi priority primátorky Krnáčové zřejmě naplňování protikorupční strategie nepatří.
  
-### 2. Souhrn povedených věcí současné koalice
+### 2. Souhrn povedených věcí současné koalice <a id="2.-souhrn-povedených-věcí-současné-koalice"></a>
 
 **Zlevnění ročního kuponu na MHD zvýšilo atraktivitu veřejné dopravy.**
 
@@ -48,7 +48,7 @@
 
 **Příprava Mapy infrastrukturních deficitů.** Ta bude sloužit k lepšímu plánování města, aby bylo zajištěno, že všude bude dostatek škol a školek, doktorů či obchodů. Kvůli zdržování některých koaličních stran ale zatím mapa nebyla vyhotovena, ač její příprava byla schválena.
 
-### 3. Souhrn nepovedených věcí současné koalice
+### 3. Souhrn nepovedených věcí současné koalice <a id="3.-souhrn-nepovedených-věcí-současné-koalice"></a>
 
 **Metro D není.** Koalice ANO+ČSSD+Trojkoalice navzdory původním plánům nedokázala vykoupit pozemky pro výstavbu metra D. Přestože výstavba měla začít již v roce 2017, nakonec má být v roce 2018 zahájena stavba úseku mezi dvěma stanemi (Pankrác a Olbrachtova), neboť město nedokázalo získat pro zbytek úseku všechny pozemky, které potřebuje. Celý proces na vybudování „déčka“ tak připomíná realizaci metra v Novosibirsku, kde v roce 1987 také otevřeli jednu linku s dvěma stanicemi. 
 
@@ -76,7 +76,7 @@
 
 **Příliš dlouhá neaktivita v problematice Uberu.** Ačkoliv Piráti apelovali na primátorku Krnáčovou i na vládu, aby problematiku řešila, město dál není schopné stanovit jasná pravidla pro provoz služeb sdílené ekonomiky. Výsledkem jsou opakované demonstrace taxikářů. Obdobný případ je AirBnb, kdy se naopak bouří obyvatelé domů, kteří kvůli neustálé cirkulaci cizinců v bytech, které nejsou určeny pro krátkodobé ubytování, nemají chvilku klidu.
 
-### 4. Programové prohlášení Rady hlavního města Prahy
+### 4. Programové prohlášení Rady hlavního města Prahy <a id="4.-programové-prohlášení-rady-hlavního-města-prahy"></a>
 
 #### LEGISLATIVA/ÚŘAD
 
