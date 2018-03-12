@@ -10,13 +10,15 @@
 
 **Pomohli jsme vyřešit problém s Opencard, když jsme přesvědčili město, aby zavedlo jako alternativu papírové kupony.** I když jsou samy o sobě primitivní, Pražané získali možnost volby a Praha přestala být rukojmím poskytovatele služeb pro Opencard.
 
+**Sepsali jsme analýzu, kdo zodpovídá za Opencard.** Z analýzy o několika desítek stranách jasně vyplývá, že odpovědnost jde za Pavlem Bémem, Petrem Hulínským a dalšími členy tehdejší Bémovy rady. Ti totiž zastupitelstvu předkládali zmanipulované informace a při vypisování zakázek porušovali usnesení zastupitelstva. Vyzvali jsme primátorku Krnáčovou, ať nechá vypracovat žalobu na odpovědné politiky, aby po nich město vymáhalo škodu občanskoprávní cestou. Ta to ale neudělala.
+
 **Zveřejnili jsme čtvrt milionu faktur Magistrátu.** Díky nim bylo konečně možné zjistit, jak úřad hospodaří. Učinili jsme tak sami, neboť úřad i přes naše opětované apely strkal hlavu do písku. 
 
 **Vyvinuli jsme tlak na odchod Radmily Kleslové.** Bývalá StBačka v čele Prahy 10 měla ve své funkci řadu lukrativních kontraktů s některými státními firmami. Rovněž zastávala různé posty v dozorčích radách státních a městských firem. Když jsme se pokoušeli zjistit, co bylo podstatou práce Kleslové v uvedených firmách, zjistili jsme, že žádné záznamy o její činnosti neexistují. Na podzim roku 2015 Kleslová odešla z pozic v dozorčích radách městských firem. Piráti přispěli k mediálnímu tlaku, který vedl k pádu Kleslové nejen v mětských firmách, ale i v hnutí ANO a na městské části Praha 10. Zveřejnili jsme totiž, že z funkcí v městských firmách brala přes 360 tisíc měsíčně, více než prezident republiky. 
 
 **Spustili jsme Otevřená data v Praze.** Zastupitel Ondřej Profant byl zpočátku koordinátorem portálu otevřených dat http://opendata.praha.eu/. Díky němu se mohou Pražané dozvědět více o fungování města a jednotlivých městských firem. Uspořádali jsme hackathon, kde byla poskytnutá data využita pro tvorbu nových mobilních aplikací, které mohou Pražané využívat. 
 
-**Odhalili jsme dotované byty soudcům a státním zástupcům.** Soudci a státní zástupci, kteří mají nadstandardní příjmy, měli k dispozici byty za velmi nízké nájemné (srovnatelné např. s učiteli nebo policisty). Navíc měli s Prahou smlouvy často uzavřené na jeden či dva roky; byli tak motivováni k tomu, aby rozhodovali v soudních sporech s hlavním městem Prahou zaujatě, tj. ve prospěch hlavního města.
+**Odhalili jsme dotované byty soudcům a státním zástupcům.** Někteří soudci a státní zástupci, kteří mají nadstandardní příjmy, mají k dispozici byty od města za velmi nízké nájemné (za zhruba třetinové ceny než na trhu). Byli tak motivováni k tomu, aby rozhodovali v soudních sporech s hlavním městem Prahou zaujatě, tj. ve prospěch hlavního města. Navíc je to samo o sobě nespravedlivé, když lidé s mnohem nižšími příjmy musejí platit tržní nájemné.
 
 **SMS jízdenky.** Porovnali jsme výši cen služby SMS jízdenek pro město v Praze a dalších krajských městech, kde daná služba běží. Poukázali jsme na to, kolik hlavní město na službě tratí a že v porovnání s ostatními městy má množstevní přirážku. Dopravní podnik od té doby jedná s poskytovatelem o změnách smluv.
 
