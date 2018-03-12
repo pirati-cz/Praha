@@ -1,9 +1,9 @@
 ### Obsah
 
-1. [1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018](#1.-souhrn-úspěchů-piratů-v-praze-za-volební-období-2014–2018)
-2. [2. Souhrn povedených věcí současné koalice](#2.-souhrn-povedených-věcí-současné-koalice)
-3. [3. Souhrn nepovedených věcí současné koalice](#3.-souhrn-nepovedených-věcí-současné-koalice)
-4. [4. Programové prohlášení Rady hlavního města Prahy](#4.-programové-prohlášení-rady-hlavního-města-prahy)
+[1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018](#1.-souhrn-úspěchů-piratů-v-praze-za-volební-období-2014–2018)
+[2. Souhrn povedených věcí současné koalice](#2.-souhrn-povedených-věcí-současné-koalice)
+[3. Souhrn nepovedených věcí současné koalice](#3.-souhrn-nepovedených-věcí-současné-koalice)
+[4. Programové prohlášení Rady hlavního města Prahy](#4.-programové-prohlášení-rady-hlavního-města-prahy)
 
 
 ### 1. Souhrn úspěchů Pirátů v Praze za volební období 2014–2018 <a id="1.-souhrn-úspěchů-piratů-v-praze-za-volební-období-2014–2018"></a>
