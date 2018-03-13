@@ -76,6 +76,8 @@
 
 **Příliš dlouhá neaktivita v problematice Uberu.** Ačkoliv Piráti apelovali na primátorku Krnáčovou i na vládu, aby problematiku řešila, město dál není schopné stanovit jasná pravidla pro provoz služeb sdílené ekonomiky. Výsledkem jsou opakované demonstrace taxikářů. Obdobný případ je AirBnb, kdy se naopak bouří obyvatelé domů, kteří kvůli neustálé cirkulaci cizinců v bytech, které nejsou určeny pro krátkodobé ubytování, nemají chvilku klidu.
 
+**Naše výstaviště nevzkvétá.** Pražské výstaviště, které bylo rekonstruováno naposledy v roce 1991, poničila v roce 2002 povodeň, poté s ním nepříliš hospodárně nakládala společnost Incheba a pak jedno křídlo jeho historické budovy v roce 2008 zničil požár. Od té doby je v nepříliš šťastném stavu. Primátorka Krnáčová slíbila jeho revitalizaci, včetně výstavby biotopového koupaliště. Realitou však jsou rumiště v areálu bývalé Matějské poutě, opuštěné chodníky vedoucí odnikud nikam a stárnoucí atrakce odkazující na zašlou slávu někdejšího Parku kultury o a oddechu Julia Fučíka. Už nyní je jasné, že se koupaliště včas postavit nestihne. Paní primátorka na tiskové konferenci přitom slibovala revitalizaci vstupní brány, parku soch nebo vodních her, griloviště, bikrosové dráhy a výstavbu biotopu do dvou let.
+
 ### 4. Programové prohlášení Rady hlavního města Prahy <a id="4.-programové-prohlášení-rady-hlavního-města-prahy"></a>
 
 #### LEGISLATIVA/ÚŘAD
