@@ -14,25 +14,18 @@ Základním východiskem těchto Pravidel tak je, aby pomoc při zajištění od
 
 Prioritními skupinami osob, na něž se bytová politika hlavního města Prahy zejména zaměřuje, jsou:
 
-·         senioři
-
-·         osoby se zdravotním postižením
-
-·         osoby v sociální tísni
-
-·         vybrané profese
+- senioři
+- osoby se zdravotním postižením
+- osoby v sociální tísni
+- vybrané profese
 
 s tím, že způsob podpory je specifický pro každou skupinu osob.
 
 Ve věci úpravy výše nájemného hl. m. Praha postupuje tak, že v prvním kroku srovnává historicky vzniklé disproporce, kdy někteří nájemci z důvodu legislativního prostředí hradili nájemné ve výši 37,07 Kč nebo jen o málo vyšší za 1 m2 započitatelné podlahové plochy bytu měsíčně bez částky za vybavení bytu zařizovacími předměty. S těmito nájemci je průběžně řešeno zvyšování nájemného na částku 75,- Kč za 1 m2 započitatelné podlahové plochy bytu měsíčně bez částky za vybavení bytu zařizovacími předměty (v případě bytů zvláštního určení pak 70 Kč za 1 m2), a to buď na základě vzájemné dohody nebo soudní cestou v případě neakceptování návrhu hl. m. Prahy. Toto se týkalo 104 nájemců (v jednom případě i bytu pronajatého z kvóty bytů určení státnímu zastupitelství) a ve většině případů již došlo k navýšení nájemného :
 
--       vyřešeno 79  (76%)
-
--       soudní spor 3 (2,9%)
-
--       v řešení - prověřování,  stav - zaslaná výzva 22 (21,1%)
-
-.
+- vyřešeno 79  (76%)
+- soudní spor 3 (2,9%)
+- v řešení - prověřování,  stav - zaslaná výzva 22 (21,1%)
 
 Současně je všem nájemcům (bez ohledu na sjednaný typ nájemní smlouvy) každoročně k 1.7. upravována výše nájemného o míru inflace, a to usnesením Rady hl. m. Prahy č. 1084 ze dne 10.5.2016 o 0,3% k 1.7.2016 a usnesením Rady hl. m. Prahy č. 805 ze dne 11.4.2017 o 0,7% k 1.7.2017. Nájemné o míru inflace bude upraveno i v letošním roce, kdy inflace dosáhla 2,5% (dosud tak Rada hl. m. Prahy nerozhodla).
 
@@ -40,11 +33,9 @@ Souběžně s výše uvedenými kroky nechalo hl. m. Praha vypracovat znalecké 
 
 Vybraný bytový fond pak hl. m. Praha nabízí k pronájmu formou výběrových řízení, a to:
 
--          malometrážní a dlouhodobě neobsazené byty v domech hl. m. Prahy dle pravidel schválených usnesením Rady hl. m. Prahy č. 1718 ze dne 18.7.2017;
-
--          byty nacházející se v domech navržených  k prodeji po technologicky - funkčních celcích dle pravidel schválených usnesením Rady hl. m. Prahy č. 1876 ze dne 15.8.2017;
-
--          vybrané bytové jednotky v atraktivních lokalitách centra hl. m. Prahy (zejména v Praze 1 a Praze 2) jsou pronajímány dle pravidel schválených usnesením Rady hl. m. Prahy č. 1264 ze dne 30.5.2017
+- malometrážní a dlouhodobě neobsazené byty v domech hl. m. Prahy dle pravidel schválených usnesením Rady hl. m. Prahy č. 1718 ze dne 18.7.2017;
+- byty nacházející se v domech navržených  k prodeji po technologicky - funkčních celcích dle pravidel schválených usnesením Rady hl. m. Prahy č. 1876 ze dne 15.8.2017;
+- vybrané bytové jednotky v atraktivních lokalitách centra hl. m. Prahy (zejména v Praze 1 a Praze 2) jsou pronajímány dle pravidel schválených usnesením Rady hl. m. Prahy č. 1264 ze dne 30.5.2017
 
 Výběrová řízení včetně bližších informací jsou průběžně zveřejňována na úřední desce hlavního města Prahy. Tyto byty jsou pronajímány za tržní nájemné.
 
