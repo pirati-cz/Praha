@@ -43,3 +43,33 @@ Výběrová řízení včetně bližších informací jsou průběžně zveřej�
 ---------------------------------
 Adam Zábranský: Díky za odpověď. Pokud to ale chápu správně, tak cca ve 2 tisících městských bytů bydlí lidé na historický návrh MČ, o kterých tedy až nyní Magistrát zjišťuje, jaké mají příjmy. Zároveň část z nich má smlouvy na dobu neurčitou. Ze seznamu, který nám před 3 lety odbor majetku poskytl, vyplývá, že cca 1200 lidí, kteří mají nájem na dobu neurčitou, platí méně jak 80 Kč/m2/měsíc, celkem má smlouvu na dobu neurčitou cca 3000 lidí - nevím, kolik z těchto lidí je na návrh MČ, ale část z nich to určitě bude. U těchto nájemníků ani Magistrát nezjišťuje výši příjmů (protože nájemní smlouvy se neprodlužují, takže nájemníci nemají důvod údaje poskytovat). Odpovídá tahle má představa realitě? Jestli ano, tak mi přijde, že jediné řešení, které dává smysl, je těmto nájemníkům postupně navyšovat nájemné na tržní cenu a vymyslet rozumný program pro ty, kteří si tržní ceny nemohou dovolit. Jinak totiž budeme nadále přetrvávat ve stavu, kdy v městských bytech za ceny třetinové oproti tržním hodnotám bydlí lidé, kteří takovou službu od města vůbec nepotřebují...
 
+
+----------------------------------
+Vážený pane předsedo,
+
+jak správně uvádíte, v problematice nájemních smluv k bytům HMP v kontextu s výší nájemného je třeba vždy rozlišit, zda je nájem sjednán na dobu určitou, nebo dobu neurčitou.
+
+Z databáze smluv o nájmu bytů v domech HMP vedené zdejším odborem:
+
+t.č. evidujeme celkem 6155 smluv o nájmu bytu (včetně nájemních smluv v domech určených k prodeji) a z tohoto počtu         
+- 3573 je uzavřeno na dobu určitou
+- 2582 je uzavřeno na dobu neurčitou
+
+t.č. v domech schválených k prodeji uzavřeno 
+- 224 smluv o nájmu bytu na dobu určitou
+- 741 smluv o nájmu bytu na dobu neurčitou
+po ukončení prodeje budou smlouvy o nájmu bytu v „poměru“  3349 na dobu určitou a 1841 na dobu neurčitou
+
+U nájemních smluv uzavřených na dobu neurčitou HMP výši příjmů domácnosti nezjišťuje.
+
+Otázka úpravy, resp. zvyšování nájemného:
+- ke každoročnímu zvyšování nájemného v bytech HMP o inflaci docházelo na základě usnesení RHMP s výjimkou let 2011 až 2015, a to vždy u obou typů nájemních vztahů (doba neurčitá i doba určitá). Článek o zvyšování nájemného o inflaci nájemní smlouvy obsahují
+- platná legislativa upravuje navýšení nájemného o 20% 1x za 3 roky
+
+poznámka: pokud by RHMP rozhodla o navýšení nájemného (t.č. např. ve výši 63,63 Kč/m2/měs.) o uvedených 20% již v roce 2018, bylo by stanovené nájemné po dobu dalších tří let ve výši 76,36 Kč/m2/měs.; v roce 2022 pak 91,63 Kč/m2/měs. Na nájemné v místě obvyklé např. 160,-Kč/m2/měs. bychom se za předpokladu pravidelného zvyšování nájemného o 20% každý čtvrtý rok dostali v roce 2034 na částku 158,34 Kč/m2/měsíc. Lze pouze spekulovat, jaké bude nájemné v místě obvyklé za 16 let.
+
+Jediným vhodným opatřením navyšování nájemného v domech HMP je jednotný postup, který bude mít stejný dopad na všechny nájemce bez ohledu na dobu určitou nebo neurčitou a bez ohledu na důvod vzniku nájmu bytu (návrh MČ, vybraná profese…).  Pouze tímto způsobem nedojde k zvýhodňování/diskriminaci jedné či druhé skupiny nájemců, kdy například klient, který si zajišťuje zvýšení životní úrovně vykonáváním dalšího pracovního poměru, bude znevýhodněn vyšším nájemným oproti klientovi, který své příjmy udržuje na nízké úrovni (ať charakterem vykonávaného zaměstnání, či proto, že je pro něj „pohodlnější“ využít příspěvku na bydlení).
+
+S ohledem na proměnlivost výše příjmů domácnosti nelze aplikovat zvýšení nájemného na konkrétní domácnosti, ale vždy na bytové domy.
+
+Závěrem dodávám, že program pro ty, co si vyšší nájemné nemohou dovolit, je v praxi realizován již řadu let (formou možnosti požádat o příspěvek na bydlení, resp. doplatek na bydlení) a řada nájemců bytu HMP ho využívá. Současně je OBF připraven zpracovat (a dlouhodobě tak koná) žádosti těch nájemců, kteří nemají dostatek finančních prostředků na úhradu nájemného v užívaném bytě a předložit RHMP k projednání návrh na pronájem jiného vhodného menšího bytu, který bude korespondovat s finančními možnostmi nájemce.
