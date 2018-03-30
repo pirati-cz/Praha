@@ -28,9 +28,15 @@
 
 **Kuchyňka. Odhalili jsme, že primátorka Krnáčová schvaluje pražské stavební předpisy v „kuchyňce“.** Rovněž jsme dohledali, že jí je na poslední chvíli napsali magistrátní úředníci poté, když v zápalu politického boje odmítla návrh, který několik měsíců připravovala odborná skupina. 
 
-**Odhalili jsme klientelistickou síť pražské ČSSD.** Zjistili jsme, že hlavní město Praha dává lukrativní zakázky firmám, které patří méně exponovaným členům ČSSD na městských částech. Za posledních 10 let si firmy 3 členů pražské ČSSD z Prahy 14 přišly od městských firem a příspěvkových organizací na 2 miliardy korun.
+**Rozkryli jsme klientelistickou síť pražské ČSSD.** Zjistili jsme, že hlavní město Praha dává lukrativní zakázky firmám, které patří méně exponovaným členům ČSSD na městských částech. Za posledních 10 let si firmy 3 členů pražské ČSSD z Prahy 14 přišly od městských firem a příspěvkových organizací na 2 miliardy korun.
 
 **Prosadili jsme do protikorupční strategie Prahy důležitá opatření.** Zveřejňování informací o zakázkách, zveřejňování faktur a nájemních smluv – a to všechno jako otevřená data. To jsou body, které Piráti navrhli a prosadli do protikorupční strategie města na rok 2017–2019. Bohužel tato opatření zůstala jen na papíře, mezi priority primátorky Krnáčové zřejmě naplňování protikorupční strategie nepatří.
+
+**Usnesení proti politickým trafikám.** Pořadilo se nám protlačit zastupitelstvem usnesení, které po radě požaduje, aby připravila pravidla proti politickým trafikám v městských firmách a také vlastnickou politiku, aby Praha své firmy lépe řídila.
+
+**Transparentnější výbory.** Prosadili jsme do jednacího řádu výborů zastupitelstva povinnost zveřejňovat předem materiály, které budou projednávány - stejně jako se to dělá u zasedání zastupitelstva. Bohužel některé výbory tuto povinnost stále nedodržují, ač je k tomu opakovaně vyzýváme. Většinovou podporu jsme nenašli pro jmenovité hlasování na výborech (v zápisech není uváděno, kdo jak hlasoval).
+
+**Lepší přístup zastupitelů k informacím.** Vyhráli jsme několik sporů proti Magistrátu, městským firmám a příspěvkovým organizacím, které nám nechtěly poskytovat informace. Úředníci jsou nyní ochotnější je předávat, protože vědí, že si právo na informace dokážeme uhájit a jejich chyby zveřejníme.
  
 ### 2. Souhrn povedených věcí současné koalice <a id="2.-souhrn-povedených-věcí-současné-koalice"></a>
 
