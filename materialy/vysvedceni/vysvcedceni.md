@@ -24,7 +24,7 @@
 
 **Zveřejnili jsme Metropolitní plán.** Rozpracovaný dokument, který nahradí současný platný územní plán jsme získali díky zákonu o svobodném přístupu k informacím a dali ho na náš web. Vedení města následně dospělo k závěru, že bude lepší, když další verze bude zveřejňovat místo nás Institut plánování a rozvoje.
 
-**TETRA nešifrovaná.** Zjistili jsme, že radiový systém pro bezpečnostní složky města může každý odposlouchávat. Apelovali jsme na vedení Prahy, ať zjedná nápravu – nyní se připravuje zadávací dokumentace.
+**TETRA nešifrovaná.** Zjistili jsme, že radiový systém pro bezpečnostní složky města může každý odposlouchávat. Apelovali jsme na vedení Prahy, ať zjedná nápravu. Magistrátní odbor informatiky ale připravil zakázku, kterou chtěl přiklepnout jednomu dodavateli za přemrštěné ceny. Podařilo se nám ji zastavit a nyní je zakázka předělávána.
 
 **Kuchyňka. Odhalili jsme, že primátorka Krnáčová schvaluje pražské stavební předpisy v „kuchyňce“.** Rovněž jsme dohledali, že jí je na poslední chvíli napsali magistrátní úředníci poté, když v zápalu politického boje odmítla návrh, který několik měsíců připravovala odborná skupina. 
 
