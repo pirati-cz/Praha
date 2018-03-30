@@ -72,7 +72,7 @@
 
 **Hroucení mostů, oprava Libeňského mostu.** Pražská Technická správa komunikací dlouhodobě zcela zanedbávala údržbu Libeňského mostu, kvůli čemuž jsme podávali i trestní oznámení. V roce 2016 zastupitelstvo schválilo, že se most má opravit. Náměstek Dolínek ale dva roky nic nedělal, a tak Libeňský most musel být v únoru 2018 na jistou dobu kvůli havarijnímu stavu uzavřen pro provoz aut a tramvají. Nyní hrozí jeho zbourání a nesmyslné rozšíření o několik pruhů. Některé další mosty (např. Most Palavkého, Hlávkův most nebo Barrandovský most) jsou na tom z technického hlediska rovněž velmi špatně. Trojská lávka dokonce spadla. Tragický stav pražských mostů je zapříčiněn nekvalitní prací Technické správy komunikací a špatně nastavenými prioritami vládnoucích politiků. Ti totiž raději přestřihávají pásky u nových dopravních staveb, než aby opravovali ty stávající.
 
-**Nepodařilo se odblokovat stavební uzávěry, aby se dalo stavět v širším centru města.** Příprava zástavby u Nákladového nádraží Žižkov se alespoň připravuje, ale ohledně Bubnů k zásadnímu posunu nedošlo. Na území Prahy existuje celkem 30 stavebních uzávěr; protože je Praha nedokázala odstranit a zároveň se odmítla rozrůstat do krajiny, není možné stavět nové byty nebo kancelářské objekty téměř nikde. Výsledkem jsou rostoucí ceny nájmů. 
+**Nepodařilo se odblokovat stavební uzávěry, aby se dalo stavět v širším centru města.** K částečnému posunu došlo u Nákladového nádraží Žižkov a území Bubny-Zátory, ale postup je pomalý. Na území Prahy existuje celkem 30 stavebních uzávěr; protože je Praha nedokázala odstranit a zároveň se odmítla rozrůstat do krajiny, není možné stavět nové byty nebo kancelářské objekty téměř nikde. Výsledkem jsou rostoucí ceny nájmů. 
 
 **Příliš dlouhá neaktivita v problematice Uberu.** Ačkoliv Piráti apelovali na primátorku Krnáčovou i na vládu, aby problematiku řešila, město dál není schopné stanovit jasná pravidla pro provoz služeb sdílené ekonomiky. Výsledkem jsou opakované demonstrace taxikářů. Obdobný případ je AirBnb, kdy se naopak bouří obyvatelé domů, kteří kvůli neustálé cirkulaci cizinců v bytech, které nejsou určeny pro krátkodobé ubytování, nemají chvilku klidu.
 
@@ -100,10 +100,7 @@ Rada hl. m. Prahy navrhne legislativní změny, které zvýší pravomoci hl. m.
 * Developerské projekty regulovány nejsou, podíl na technické vybavennosti vymáhán není, mapa reklamních ploch také ne. 
 
 Rada hl. m. Prahy připraví a projedná koncepci dotvoření a revitalizace Vítězného náměstí
-* Nic takového se nestalo.
-
-Rada hl. .m Prahy vypíše veřejnou soutěž o návrh dle pravidel ČKA na oblast Holešovice–Bubny;
-* Vůbec nic takového se nestalo.
+* Nestihlo se.
 
 #### DOPRAVA
 
@@ -114,7 +111,7 @@ Rada hl. m. Prahy bude stavět nové tramvajové tratě na území hl. m. Prahy;
 * Ve volebním období nebyla postavena žádná nová tramvajová trať (s výjimkou trojského mostu). Všechny tratě (s výjimkou trati na Barrandov, která bude sloužit ale bohužel zatím jen pro pole) není aktuálně ve stádiu alespoň blízkému přípravy žádná nová trať. Praha není schopna buď přesvědčit městské části (např. Praha 8) nebo občanské iniciativy (např. Praha 6) o potřebnosti tratí.
 
 Rada hl. m. Prahy prosadí opatření vedoucí ke zklidnění severojižní magistrály v celé délce;
-* Bylo připravováno, nakonec na začátku roku 2018 toto primátorka zamítla a ANO+ODS+TOP09 plán zamítly v ad hoc koalici. 
+* Bylo připravováno, nakonec na začátku roku 2018 toto primátorka zastavila a ANO+ODS+TOP09 plán zamítly v ad hoc koalici. 
 
 Rada hl. m. Prahy bude pokračovat v programu obnovy pražských mostů 
 * Mosty jsou v havarijním stavu; 1 spadnul (Trojský), 1 musel být uzavřen (Libeňský), dalších 23 je ve velmi špatném stavu. Naprostý fail.
@@ -125,13 +122,13 @@ Rada hl. m. Prahy v rámci snahy o snížení znečištění ovzduší zavede n�
 #### BYDLENÍ
 
 Rada hl. m. Prahy podpoří výstavbu startovacích bytů pro mladé rodiny, bytů pro sociálně znevýhodněné a hendikepované občany a pro seniory;
-* Nic se nestalo, mětské části svojí iniciativu mají (Praha 2, Praha 4, Praha 17....)
+* Nic se nestalo, z nouze jsou nějaké peníze rozdělovány na projekty mětských částí, které mají svou iniciativu (Praha 2, Praha 4, Praha 17....)
 
 Rada hl. m. Prahy zahájí rekonstrukci Pražského Výstaviště v Holešovicích, Šlechtovy restaurace, Divadla pod Palmovkou. Revitalizaci spodní části Václavského náměstí a projekt na oživení Hradčanského náměstí;
-* Výstaviště není obnoveno, Šlechtova restaurace nestojí (na druhou stranu alespoň už opravy probíhají), Václavské náměstí bylo schváleno v podobě s podzemním parkovištěm a rampami, kdy dojde k navýšení počtu parkovacích míst (!). O hradčanském náměstí víme pouze to, že tam mají přijít protiteroristické sloupky.
+* Na Výstavišti se nestalo vůbec nic, Šlechtova restaurace nestojí (na druhou stranu alespoň už opravy probíhají), Václavské náměstí bylo schváleno v podobě s podzemním parkovištěm a rampami, kdy dojde k navýšení počtu parkovacích míst (!). O Hradčanském náměstí víme pouze to, že tam mají být postaveny protiteroristické sloupky.
 
 Rada hl. m. Prahy dořeší stávající situaci pronajímaných ploch – stánků a regulaci trhů zejména v centru města;
-* Výběrová řízení jsou problematická, bývají napadány a vyhrává pořád jeden subjekt (Taiko). Na staroměstském náměstí vydělává nadace politiků MČ Praha 1 na provozu stánků, na Náměstí Republiky trhy provozuje zdarma kamarád radního Hodka.
+* Výběrová řízení jsou problematická, bývají napadány a vyhrává pořád jeden subjekt (Taiko). Na Staroměstském náměstí vydělává nadace politiků MČ Praha 1 na provozu stánků, na Náměstí Republiky trhy provozuje zdarma kamarád radního Hodka.
 
 #### INFRASTRUKTURA
 
