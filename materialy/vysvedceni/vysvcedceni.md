@@ -40,8 +40,6 @@
  
 ### 2. Souhrn povedených věcí současné koalice <a id="2.-souhrn-povedených-věcí-současné-koalice"></a>
 
-**Zlevnění ročního kuponu na MHD zvýšilo atraktivitu veřejné dopravy.**
-
 **Praha zavedla kartu „Lítačka“, jejíž provoz i zavedení vyšlo na rozumné náklady.** Město se zbavilo závislosti na předchozím monopolním dodavateli s jeho Opencard, který město neustále šikanoval kvůli nákupu licencí.
 
 **Teze digitální strategie.** Vedení města schválilo základní teze digitální strategie, který iniciovali dva pirátští zástupci v Komisi ICT. Teze počítají se zaváděním otevřených dat a popisují postup digitalizace správy města a podporu open source. Jen nás mrzí, že mnohé zůstalo na papíře.
