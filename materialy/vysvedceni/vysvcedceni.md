@@ -52,11 +52,11 @@
 
 **Příprava Mapy infrastrukturních deficitů.** Ta bude sloužit k lepšímu plánování města, aby bylo zajištěno, že všude bude dostatek škol a školek, doktorů či obchodů. Kvůli zdržování některých koaličních stran ale zatím mapa nebyla vyhotovena, ač její příprava byla schválena.
 
+**Mobilní signál v metru.** V dubnu 2018 se konečně Dopravní podnik a operátoři dohodli na tom, že dojde k pokrytí metra signálem. Pozdě, ale přece. Vše má prý být hotovo do roku 2022. Dlouhodobě jsme upozorňovali, že Praha by se měla soustředit spíše na tento problém než budovat drahé WiFi na Petříně a ve stanicích metra. 
+
 ### 3. Souhrn nepovedených věcí současné koalice <a id="3.-souhrn-nepovedených-věcí-současné-koalice"></a>
 
 **Metro D není.** Koalice ANO+ČSSD+Trojkoalice navzdory původním plánům nedokázala vykoupit pozemky pro výstavbu metra D. Přestože výstavba měla začít již v roce 2017, nakonec má být v roce 2018 zahájena stavba úseku mezi dvěma stanemi (Pankrác a Olbrachtova), neboť město nedokázalo získat pro zbytek úseku všechny pozemky, které potřebuje. Celý proces na vybudování „déčka“ tak připomíná realizaci metra v Novosibirsku, kde v roce 1987 také otevřeli jednu linku s dvěma stanicemi. 
-
-**Mobilní signál v metru.** Hnutí ANO před volbami vydalo působivé video, kde uvádělo, jak je škoda, že v pražském metru není telefonní signál, a že „to prostě zařídí“. Po čtyřech letech však k zajištění pokrytí pro Pražany stále nedošlo. Dopravní podnik a operátoři se údajně nedokážou domluvit. Koalice se namísto toho rozhodla ve stanicích metra a v lanové dráze zavést wifi, za což město utrácí desítky milionů.
 
 **Koncept Smart Cities.** Chytré lavičky, chytré koše, chytré lampy, chytrá měřidla... Praha si pořízuje spoustu technologických hraček, které nepotřebuje. Chytré koše mají údajně šetřit místo v historickém centru, kupují je však ale i „sídlištní“ městské části. Chytré lavičky stojí miliony a v létě se na nich můžete spálit. Přitom před skutečně chytrými řešeními zavírá Praha oči – na webu hlavního města věčně něco nefunguje, v metru stále není telefonní signál.
 
@@ -76,7 +76,7 @@
 
 **Hroucení mostů, oprava Libeňského mostu.** Pražská Technická správa komunikací dlouhodobě zcela zanedbávala údržbu Libeňského mostu, kvůli čemuž jsme podávali i trestní oznámení. V roce 2016 zastupitelstvo schválilo, že se most má opravit. Náměstek Dolínek ale dva roky nic nedělal, a tak Libeňský most musel být v únoru 2018 na jistou dobu kvůli havarijnímu stavu uzavřen pro provoz aut a tramvají. Nyní hrozí jeho zbourání a nesmyslné rozšíření o několik pruhů. Některé další mosty (např. Most Palavkého, Hlávkův most nebo Barrandovský most) jsou na tom z technického hlediska rovněž velmi špatně. Trojská lávka dokonce spadla. Tragický stav pražských mostů je zapříčiněn nekvalitní prací Technické správy komunikací a špatně nastavenými prioritami vládnoucích politiků. Ti totiž raději přestřihávají pásky u nových dopravních staveb, než aby opravovali ty stávající.
 
-**Nepodařilo se odblokovat stavební uzávěry, aby se dalo stavět v širším centru města.** K částečnému posunu došlo u Nákladového nádraží Žižkov a území Bubny-Zátory, ale postup je pomalý. Na území Prahy existuje celkem 30 stavebních uzávěr; protože je Praha nedokázala odstranit a zároveň se odmítla rozrůstat do krajiny, není možné stavět nové byty nebo kancelářské objekty téměř nikde. Výsledkem jsou rostoucí ceny nájmů. 
+**Nepodařilo se odblokovat stavební uzávěry, aby se dalo stavět v širším centru města.** K částečnému posunu došlo u Nákladového nádraží Žižkov a území Bubny-Zátory, ale postup je pomalý. Na území Prahy existuje celkem 30 stavebních uzávěr; protože je Praha nedokázala odstranit a zároveň se odmítla rozrůstat do krajiny, není možné stavět nové byty nebo kancelářské objekty téměř nikde. Výsledkem jsou rostoucí ceny nájmů.
 
 **Příliš dlouhá neaktivita v problematice Uberu.** Ačkoliv Piráti apelovali na primátorku Krnáčovou i na vládu, aby problematiku řešila, město dál není schopné stanovit jasná pravidla pro provoz služeb sdílené ekonomiky. Výsledkem jsou opakované demonstrace taxikářů. Obdobný případ je AirBnb, kdy se naopak bouří obyvatelé domů, kteří kvůli neustálé cirkulaci cizinců v bytech, které nejsou určeny pro krátkodobé ubytování, nemají chvilku klidu.
 
